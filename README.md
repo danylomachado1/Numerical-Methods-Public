@@ -2,7 +2,7 @@
 
 In this repository you will see different numerical methods aplied to general physics:
 
--Non-linear equations.
+-Non-linear equations.\n
 -Linear systems - Direct methods.
 -Linear systems - Iterative methods.
 -Polynomial interpolation.
