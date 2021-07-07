@@ -6,7 +6,7 @@ In this repository you will find different numerical methods applied to general 
 * Linear systems - Direct methods.
 * Linear systems - Iterative methods.
 * Polynomial interpolation.
-* Adjustment of curves.
+* Fit of curves.
 * Numerical integration and differentiation.
 * Ordinary differential equations.
 * Problems border conditions.
