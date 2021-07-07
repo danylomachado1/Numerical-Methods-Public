@@ -9,7 +9,7 @@ In this repository you will find different numerical methods applied to general 
 * Fit of curves.
 * Numerical integration and differentiation.
 * Ordinary differential equations.
-* Problems border conditions.
+* Boundary condition problems.
 * Partial differential equations (parabolic and hyperbolic)
 * Finite elements.
 
